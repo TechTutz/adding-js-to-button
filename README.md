@@ -4,4 +4,4 @@ Adding functionality to an HTML button with an external JavaScript file.
   
 
 ## Output in browser
-![js-button-gif](https://user-images.githubusercontent.com/95581907/195961547-5a343f50-28b5-4342-9a04-34f0125115ff.gif)
+![GIFyo](https://user-images.githubusercontent.com/95581907/195961964-f45b220b-83d3-4439-9a31-a6b770cc129c.gif)
